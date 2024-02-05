@@ -1,0 +1,7 @@
+C:\Users\zZz\source\repos\JakDaxterVAGWAD\bin\Debug\JakDaxterVAGWAD.exe.config
+C:\Users\zZz\source\repos\JakDaxterVAGWAD\bin\Debug\JakDaxterVAGWAD.exe
+C:\Users\zZz\source\repos\JakDaxterVAGWAD\bin\Debug\JakDaxterVAGWAD.pdb
+C:\Users\zZz\source\repos\JakDaxterVAGWAD\obj\Debug\JakDaxterVAGWAD.csproj.AssemblyReference.cache
+C:\Users\zZz\source\repos\JakDaxterVAGWAD\obj\Debug\JakDaxterVAGWAD.csproj.CoreCompileInputs.cache
+C:\Users\zZz\source\repos\JakDaxterVAGWAD\obj\Debug\JakDaxterVAGWAD.exe
+C:\Users\zZz\source\repos\JakDaxterVAGWAD\obj\Debug\JakDaxterVAGWAD.pdb
